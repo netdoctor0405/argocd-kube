@@ -13,5 +13,5 @@ spec:
         run: argocd-kube
     spec:
       containers:
-      - image: 
+      - image: johnlee0405/docker-repo:b5752d0
         name: argocd-kube-container
